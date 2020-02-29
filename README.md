@@ -13,6 +13,7 @@ Hi, This is meant to be a README file that is aimed at introducing you to my man
 2. Project Management (Including agreeing with you that the assigned ticket is specified to your liking & Ready For Development)
 3. Hire new talent (because hiring never stops)
 4. Technical discussions - always available to discuss efficient ways of solving a problem
+5. Bridging the gap between QA & Engineering
 
 If I find myself with free time in-between those three points, I switch back to Developer mode; usually in collaboration with other developers in-between tasks. 
 
@@ -25,13 +26,13 @@ If I find myself with free time in-between those three points, I switch back to 
 ## My Expectations
 Your work. This is what I usually track:
 1. Your communication with Product/Design as you work through your epic
-2. Overcoming a problem - either my splitting a task into subtasks, finding a new library online, asking a teammate for help etc.
+2. Overcoming a problem - either by splitting a task into subtasks, finding a new library online, asking a teammate for help etc.
 3. Driving your work to production - Because you understand that merging to master does not mean that the job is done
 4. Ownership of your stories - How you deal with QA and bugs that may arise from tickets that you have worked on
 
 ## Transparency
-Our conversations are always private, unless you do require me to involve someone else in the discussion
-Sometimes the company can require me to keep something secret, but they will never ask me to lie to you
+Our conversations are always private, unless you do require me to involve someone else in the discussion.
+Sometimes the company can require me to keep something secret, but they will never ask me to lie to you.
 
 ## How you can help me
 
@@ -43,15 +44,15 @@ Sometimes the company can require me to keep something secret, but they will nev
     5. Yourself 
 2. Do great work 
 3. Be reflective & share them with me
-    1. Are you happy doing the same kind of work you're doing for the next year?
+    1. Are you happy doing the same kind of work you're doing? Do you see yourself doing it for the next year?
     2. What do you want to learn?
     3. What are your ambitions? - For yourself, for the company, for a problem etc.
     4. Tell me when I screw up 
 
 ## Personality quirks 
 1. I can sometimes make impulsive decisions based on gut feeling, if you feel like the decision is too hasty you should call me out on it.
-2. I enjoy optimising a solution. Even if I can save just 50 milliseconds, I get a kick out of it. If you have a solution, I want to hear it. If I take it too far, you should call me out on it.
+2. I enjoy optimising a solution. Even if I can save just 5 milliseconds in a http request, I get a kick out of it. If you have a solution, I want to hear it. If I take it too far, you should call me out on it.
 3. I want to learn from you, and I want you to teach me. I am probably mediocre at best at what you're currently working on. 
 
 
-This is a living, breathing document. If my expectations are unfair or if I fail to live up to my responsibilities that I have listed in this document, you should call me out on it
+This is a living, breathing document. If my expectations are unfair or if I fail to live up to my responsibilities that I have listed in this document, you should call me out on it.

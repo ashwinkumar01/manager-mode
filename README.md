@@ -9,7 +9,7 @@ Hi, This is meant to be a README file that is aimed at introducing you to my man
 
 ## My role
 ### In a nutshell
-1. Retain & grow our talent
+1. Retain & grow our talent - I want to keep discussing your own personal goals and how I can help
 2. Project Management (Including agreeing with you that the assigned ticket is specified to your liking & Ready For Development)
 3. Hire new talent (because hiring never stops)
 4. Technical discussions - always available to discuss efficient ways of solving a problem

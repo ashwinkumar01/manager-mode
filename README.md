@@ -6,6 +6,7 @@ Hi, This is meant to be a README file that is aimed at introducing you to my man
 ### TL;DR
 1. Your wellbeing in the company is my most important KPI. If you want to talk to me, you should interrupt whatever I'm doing and we can talk. We don't need to wait for our next 1:1. 
 2. However, the same rule does not apply for technical questions. If you interrupt me, I expect you to have tried to solve the problem on your own (or google it) first.
+3. I truly care about you and each and every member of my team. I hope you'll have a successful career and that you enjoy your time working with me.
 
 ## My role
 ### In a nutshell

@@ -15,6 +15,7 @@ Hi, This is meant to be a README file that is aimed at introducing you to my man
 3. Hire new talent (because hiring never stops)
 4. Technical discussions - always available to discuss efficient ways of solving a problem
 5. Bridging the gap between QA & Engineering
+6. Briding the gap between Product & Engineering - This facet of the role has been taking more of my time and attention lately. I have seen promising companies squander great talent. Marty Cagan sums this up perfectly: "It does not matter how good your team is if they are not given something worthwhile to build".
 
 If I find myself with free time in-between those three points, I switch back to Developer mode; usually in collaboration with other developers in-between tasks. 
 
